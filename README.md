@@ -1,4 +1,3 @@
-Meus exercicios em python
 <h1 align="center">SEJA BEM VINDO!</h1>
 
 ###
